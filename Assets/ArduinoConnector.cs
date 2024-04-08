@@ -7,7 +7,7 @@ public class ArduinoConnector : MonoBehaviour
 {
     SerialPort arduinoPort;
     public string portName = "\\\\.\\COM5";
-    public int baudRate = 11520;
+    public int baudRate = 9600;
     private Thread readThread;
     private bool reading;
 
