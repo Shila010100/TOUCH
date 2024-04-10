@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: OpenXR Editor Settings
   m_EditorClassIdentifier: Unity.XR.OpenXR.Editor:UnityEditor.XR.OpenXR:OpenXREditorSettings
-  Keys: 
-  Values: []
+  Keys: 07000000
+  Values:
+  - featureSets: []
